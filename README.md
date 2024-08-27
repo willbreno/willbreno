@@ -1,6 +1,7 @@
-<div align="left">
+<div style="text-align: left; margin-left: 0;">
   <img src="https://camo.githubusercontent.com/331f6d55c9e1647781197ada5c780850d35a75546b7f531747b4bbf224172df3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d346539663364266865696768743d3132302673656374696f6e3d686561646572" alt="Cabeçalho" />
 </div>
+
 <div align="center">
   <img src="Git.webp" alt="GitHUB" /> 
 </div>
