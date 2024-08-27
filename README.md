@@ -5,6 +5,8 @@
 
 
 <div align="center">
+  <h1> 🇺🇸 Hi i am Goku ! 🇺🇸 </h1>
+  <h1> 🇧🇷 Oi eu sou o Goku ! 🇧🇷 </h1>
   <img src="Git.webp" alt="GitHUB" /> 
 </div>
 
