@@ -7,8 +7,13 @@
 <div>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHUB" style="text-align: left;"/> 
   <h1 style="text-align: center;"> Bem-vindo ao meu perfil do GitHub </h1>
-  <p style="text-align: center;"> Meu nome é Breno, sou um estudante de programação! </p>
- 
+  <p style="text-align: center;"> Meu nome é Breno, sou um estudante de programação! </p> 
+</div>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="text-align: center;">
