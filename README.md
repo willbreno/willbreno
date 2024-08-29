@@ -22,8 +22,10 @@
 <br>
 <br>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtd2ViOWh6dzVraXdqdXN6amZsYjZ4eDB1cmR5dzcwYWNpYzltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Programando" style="width: 35rem;"/>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtd2ViOWh6dzVraXdqdXN6amZsYjZ4eDB1cmR5dzcwYWNpYzltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Programando" style="width: 15rem;"/>
+</p>
+  
   <div style="text-align: center; align-items: center;">
     <h2 style="text-align: center; margin: 0 0 0 20rem;">Skills em desenvolvimento:</h2>
     <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
