@@ -18,6 +18,9 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdrcGQ5M3Jnanl5cG1mbWZqa2k5MjVoZjNiYnFxczFyc2FiNmJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.webp" style="width: 15rem; />
     </p>
   </div>
+        <br>
+<br>
+
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
