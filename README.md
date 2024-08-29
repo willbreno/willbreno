@@ -3,7 +3,10 @@
 </div>
 
 <div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHUB" style="width: 15rem; align-item: centre;"/>
+   <p align="center">
+     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHUB" style="width: 15rem;"/>
+   </p>
+  
   <div style="text-align: center;">
     <h1 align="center"> Bem-vindo ao meu perfil do GitHub !</h1>
     <p align="center"> Meu nome é Breno, sou um estudante de programação!</p>
