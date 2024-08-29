@@ -26,23 +26,21 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtd2ViOWh6dzVraXdqdXN6amZsYjZ4eDB1cmR5dzcwYWNpYzltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Programando" style="width: 15rem;"/>
 </p>
   
-  <div style="text-align: center; align-items: center;">
-    <h2 style="text-align: center; margin: 0 0 0 20rem;">Skills em desenvolvimento:</h2>
-    <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
-      <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 2rem;"/>
-      <img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 2rem;"/>
-      <img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right: 2rem;"/>
-      <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem; padding-right: 2rem;"/>
-      <img src="TypeScript.svg" alt="TypeScript" style="width: 5rem; padding-right: 2rem;"/>
-    </div>
-    <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 20rem;">
-      <a href="https://github.com/seu-usuário-aqui">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </a>
-    </div>
-  </div>
-</div>
+ <h2 style="text-align: center; margin: 0 0 0 20rem;">Skills em desenvolvimento:</h2>
+
+<img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 2rem;"/>
+<img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 2rem;"/>
+<img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right: 2rem;"/>
+<img src="JavaScript.svg" alt="JavaScript" style="width: 5rem; padding-right: 2rem;"/>
+<img src="TypeScript.svg" alt="TypeScript" style="width: 5rem; padding-right: 2rem;"/>
+    
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+    
+  
+
 
 <br>
 <br>
