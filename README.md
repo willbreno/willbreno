@@ -5,10 +5,10 @@
 <div>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHUB" style="width: 15rem; align-item: centre;"/>
   <div style="text-align: center;">
-    <h1> Bem-vindo ao meu perfil do GitHub !</h1>
-    <p> Meu nome é Breno, sou um estudante de programação!</p>
-    <p> Estou entusiasmado para compartilhar experiências e conhecimentos com você. Acredito que, ao nos conectarmos, podemos transformar nossas habilidades e alcançar novos horizontes juntos.</p>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdrcGQ5M3Jnanl5cG1mbWZqa2k5MjVoZjNiYnFxczFyc2FiNmJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.webp" style="margin: 0 0 0 12.5rem; width: 15rem; align-item: centre;"/>
+    <h1 align="center"> Bem-vindo ao meu perfil do GitHub !</h1>
+    <p align="center"> Meu nome é Breno, sou um estudante de programação!</p>
+    <p align="center"> Estou entusiasmado para compartilhar experiências e conhecimentos com você. Acredito que, ao nos conectarmos, podemos transformar nossas habilidades e alcançar novos horizontes juntos.</p>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdrcGQ5M3Jnanl5cG1mbWZqa2k5MjVoZjNiYnFxczFyc2FiNmJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.webp" style="margin: 0 0 0 12.5rem; width: 15rem; align="center""/>
   </div>
 </div>
 
