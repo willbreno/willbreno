@@ -26,6 +26,8 @@
 <h2 align="center">Skills em desenvolvimento:</h2>
 
 <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtd2ViOWh6dzVraXdqdXN6amZsYjZ4eDB1cmR5dzcwYWNpYzltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Programando" style="width: 15rem;" />
+  <h2 align="center">Skills em desenvolvimento:</h2>
   <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 15px;"/>
   <img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 10px;"/>
   <img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right: 2rem;"/>
