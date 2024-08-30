@@ -9,13 +9,13 @@
 <p align="center">Estou entusiasmado para compartilhar experiências e conhecimentos com você. Acredito que, ao nos conectarmos, podemos transformar nossas habilidades e alcançar novos horizontes juntos.</p>
 
 <br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdrcGQ5M3Jnanl5cG1mbWZqa2k5MjVoZjNiYnFxczFyc2FiNmJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.webp" alt="Imagem centralizada" style="width: 25rem;" />
 </p>
 
+<br>
+<br>
 <br>
 <br>
 
