@@ -21,12 +21,12 @@
 
 <h2 align="center">Skills em desenvolvimento:</h2>
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
-  <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 15px;"/>
-  <img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 10px;"/>
-  <img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right: 2rem;"/>
-  <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem; padding-right: 2rem;"/>
-  <img src="TypeScript.svg" alt="TypeScript" style="width: 5rem; padding-right: 2rem;"/>
+<div align="center" style="display: flex; flex-direction: row; gap: 20px;">
+  <img src="Python-Dark.svg" alt="Python" style="width: 5rem;"/>
+  <img src="HTML.svg" alt="HTML" style="width: 5rem;"/>
+  <img src="CSS.svg" alt="CSS" style="width: 5rem;"/>
+  <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem;"/>
+  <img src="TypeScript.svg" alt="TypeScript" style="width: 5rem;"/>
 </div>
 
 <br>
