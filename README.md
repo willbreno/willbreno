@@ -6,7 +6,7 @@
 </p>
 
 
-<h1  align="right"> Bem-vindo ao meu perfil do GitHub !</h1>
+<h1  style="top: 20px; left: 50px;"> Bem-vindo ao meu perfil do GitHub !</h1>
 <p > Meu nome é Breno, sou um estudante de programação!</p>
 <p > Estou entusiasmado para compartilhar experiências e conhecimentos com você. Acredito que, ao nos conectarmos, podemos transformar nossas habilidades e alcançar novos horizontes juntos.</p>
 </div>   
