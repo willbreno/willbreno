@@ -26,8 +26,8 @@
 <h2 align="center">Skills em desenvolvimento:</h2>
 
 <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
-  <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 2rem;"/>
-  <img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 2rem;"/>
+  <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right: 15px;"/>
+  <img src="HTML.svg" alt="HTML" style="width: 5rem; padding-right: 10px;"/>
   <img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right: 2rem;"/>
   <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem; padding-right: 2rem;"/>
   <img src="TypeScript.svg" alt="TypeScript" style="width: 5rem; padding-right: 2rem;"/>
@@ -35,11 +35,14 @@
 
 <br>
 <br>
+<br>
 
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+<p align="center">
+  <a href="https://github.com/seu-usuário-aqui">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?    username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
     
   
 
