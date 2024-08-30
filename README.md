@@ -21,7 +21,7 @@
 
 <h2 align="center">Skills em desenvolvimento:</h2>
 
-<div align="center" style="display: flex; flex-direction: row; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: row;">
   <img src="Python-Dark.svg" alt="Python" style="width: 5rem;"/>
   <img src="HTML.svg" alt="HTML" style="width: 5rem;"/>
   <img src="CSS.svg" alt="CSS" style="width: 5rem;"/>
@@ -31,7 +31,6 @@
 
 <br>
 <br>
-
 
 <p align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
@@ -47,36 +46,31 @@
 <br>
 <br>
 
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: 8rem;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHUB" style="width: 37.5rem;"/>
-  <div style="text-align: center; align-items: center;">
-    <h1 style="margin: 0 0 20px 18rem;">Welcome to my GitHub profile!</h1>
-    <p style="margin: 0 0 20px 18rem;">My name is Breno, I'm a programming student!</p>
-    <p style="margin: 0 0 20px 18rem;">I am excited to share experiences and knowledge with you. I believe that by connecting, we can transform our skills and reach new horizons together.</p>
-  </div>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub" style="width: 20rem;" />
+</p>
+
+<h1 align="center">Welcome to my GitHub profile!</h1>
+<p align="center">My name is Breno, I'm a programming student!</p>
+<p align="center">I am excited to share experiences and knowledge with you. I believe that by connecting, we can transform our skills and reach new horizons together.</p>
+
+
+<br>
+<br>
+
+<h2 align="center">Skills in development:</h2>
+
+<div align="center" style="display: flex; flex-direction: row;">
+  <img src="Python-Dark.svg" alt="Python" style="width: 5rem;"/>
+  <img src="HTML.svg" alt="HTML" style="width: 5rem;"/>
+  <img src="CSS.svg" alt="CSS" style="width: 5rem;"/>
+  <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem;"/>
+  <img src="TypeScript.svg" alt="TypeScript" style="width: 5rem;"/>
 </div>
 
-
-
-  <div style="display: flex; flex-direction: row; align-items: center; margin-top: 4rem; ">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtd2ViOWh6dzVraXdqdXN6amZsYjZ4eDB1cmR5dzcwYWNpYzltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Programando" style="width: 35rem;"/>
-    <div style="text-align: center; align-items: center;">
-      <h2 style="text-align: center; margin: 0 0 0 20rem; "> Skills in development: </h2>
-      <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 35rem; padding-bottom: 5rem; padding-top: 2rem;">
-        <img src="Python-Dark.svg" alt="Python" style="width: 5rem; padding-right:2rem;"/>
-        <img src="HTML.svg" alt="HMTL" style="width: 5rem; padding-right:2rem;"/>
-        <img src="CSS.svg" alt="CSS" style="width: 5rem; padding-right:2rem;"/>
-        <img src="JavaScript.svg" alt="JavaScript" style="width: 5rem; padding-right:2rem;"/>
-        <img src="TypeScript.svg" alt="TypeScript"style="width: 5rem; padding-right:2rem;" />
-      </div>
-      <div style="display: flex; flex-direction: row; align-items: center; margin: 0 0 0 20rem;">
-      <a href="https://github.com/seu-usuário-aqui">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbreno&layout=compact&langs_count=7&theme=dracula"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=willbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </div>
-    </div>
-  </div>
-</div>
+<br>
+<br>
 
 
 <div style="text-align: center;">
