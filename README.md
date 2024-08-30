@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11dXRzaHM4cno5Y2pvb3o4bHUwZW9uODZiMmFiN3NxNGR4Nzh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub" style="width: 15rem; margin-right: 20px;" />
-
+  
   <h1>Bem-vindo ao meu perfil do GitHub!</h1>
   <p>Meu nome é Breno, sou um estudante de programação!</p>
   <p>Estou entusiasmado para compartilhar experiências e conhecimentos com você. Acredito que, ao nos conectarmos, podemos transformar nossas habilidades e alcançar novos horizontes juntos.</p>
